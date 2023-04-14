@@ -1,5 +1,5 @@
 # EmployeeDatabase
-Employee database project completed for school.
+Employee database project completed for school
 
 Zip file contains .exe, user manual, and a readme.txt containing defualt login information
 
